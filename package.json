@@ -1,0 +1,14 @@
+{
+  "name": "node_helloworld_docker",
+  "version": "1.0.0",
+  "description": "Simple NodeJS and Express app with docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Luis Alves",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
